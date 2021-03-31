@@ -5,11 +5,11 @@ If you're looking for a quick and easy way to get started with the Pave API with
 ## Getting Started
 1. Get your API Keys from Pave.
 2. Download and install [Postman](https://www.postman.com/downloads/).
-3. Import the Postman Collection by clicking `File > Import`.
-4. Select the `Link` tab and paste the following link:
-    ```
-      https://raw.githubusercontent.com/Pave-Financial/postman-collections/main/Pave%20Financial%20API.postman_collection.json
-    ```
+3. Visit the [github repository](https://github.com/Pave-Financial/postman-collections) to access the postman collection.
+4. Download repository: `Code > Download ZIP`. Once the repo has been downloaded, you need to unzip it.
+5. Import the Postman Collection by clicking `File > Import`.
+6. Select the `File` tab.
+7. Drag and drop the `Pave Financial API.postman_collection.json` file into the postman window.
 4. Configure the environment variables.
 
 ## Configuring the environment Variables
@@ -20,7 +20,9 @@ In order to make it easy for you to use the collection, we provide [Postman vari
 
 1. Select the Collection name in the left hand menu.
 2. Select the Variables tab.
-3. Replace the value of the `pave-api-key` with your actual API key.
+
+    ![variables](./assets/variables.png)
+3. Replace the value of the `pave-api-key` under the `CURRENT_VALUE` header with your actual API key.
 
 ## Available endpoints
 
