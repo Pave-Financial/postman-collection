@@ -23,6 +23,7 @@ In order to make it easy for you to use the collection, we provide [Postman vari
 
     ![variables](./assets/variables.png)
 3. Replace the value of the `pave-api-key` under the `CURRENT_VALUE` header with your actual API key.
+4. Save
 
 ## Available endpoints
 
