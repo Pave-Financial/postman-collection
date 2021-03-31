@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "23151d42-0aba-4708-9423-e56dfde61ad8",
-		"name": "Pave Financial API",
+		"name": "Pave API",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
