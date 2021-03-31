@@ -1,4 +1,4 @@
-# Pave Postman Collections
+# Pave Postman Collection
 
 If you're looking for a quick and easy way to get started with the Pave API with no additional code, then you're in the right place. [Postman](https://www.postman.com/) is a great tool to create, share and test API functionality without having to write any code. This quick start guide will walk you through how to get up and running with the Pave API. Please refer to the [API documentation](https://pavedev.redoc.ly/) if you're looking for a more in depth guide of the API. 
 
@@ -12,7 +12,7 @@ If you're looking for a quick and easy way to get started with the Pave API with
 7. Drag and drop the `Pave Financial API.postman_collection.json` file into the postman window.
 4. Configure the environment variables.
 
-## Configuring the environment Variables
+## Configuring the environment variables
 
 In order to make it easy for you to use the collection, we provide [Postman variables](https://learning.postman.com/docs/sending-requests/managing-environments/).
 
