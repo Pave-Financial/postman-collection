@@ -9,7 +9,7 @@ If you're looking for a quick and easy way to get started with the Pave API with
 4. Download repository: `Code > Download ZIP`. Once the repo has been downloaded, you need to unzip it.
 5. Import the Postman Collection by clicking `File > Import`.
 6. Select the `File` tab.
-7. Drag and drop the `Pave Financial API.postman_collection.json` file into the postman window.
+7. Drag and drop the `Pave_API.postman_collection.json` file into the postman window.
 4. Configure the environment variables.
 
 ## Configuring the environment variables
