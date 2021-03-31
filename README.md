@@ -2,7 +2,7 @@
 
 If you're looking for a quick and easy way to get started with the Pave API with no additional code, then you're in the right place. [Postman](https://www.postman.com/) is a great tool to create, share and test API functionality without having to write any code. This quick start guide will walk you through how to get up and running with the Pave API. Please refer to the [API documentation](https://pavedev.redoc.ly/) if you're looking for a more in depth guide of the API. 
 
-# Getting Started
+## Getting Started
 1. Get your API Keys from Pave.
 2. Download and install [Postman](https://www.postman.com/downloads/).
 3. Import the Postman Collection by clicking `File > Import`.
@@ -22,7 +22,7 @@ In order to make it easy for you to use the collection, we provide [Postman vari
 2. Select the Variables tab.
 3. Replace the value of the `pave-api-key` with your actual API key.
 
-# Available endpoints
+## Available endpoints
 
 The following requests are available as pre-filled requests that will allow you to test the Pave API.
 
