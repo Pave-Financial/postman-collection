@@ -5,7 +5,7 @@ If you're looking for a quick and easy way to get started with the Pave API with
 ## Getting Started
 1. Get your API Keys from Pave.
 2. Download and install [Postman](https://www.postman.com/downloads/).
-3. Visit the [github repository](https://github.com/Pave-Financial/postman-collections) to access the postman collection.
+3. Visit the [github repository](https://github.com/Pave-Financial/postman-collection) to access the postman collection.
 4. Download repository: `Code > Download ZIP`. Once the repo has been downloaded, you need to unzip it.
 5. Import the Postman Collection by clicking `File > Import`.
 6. Select the `File` tab.
