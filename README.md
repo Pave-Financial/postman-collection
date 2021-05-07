@@ -30,5 +30,5 @@ In order to make it easy for you to use the collection, we provide [Postman vari
 The following requests are available as pre-filled requests that will allow you to test the Pave API.
 
 - Recurring Expenditures
-  - Replace the `user_id` variable in the json body of the request.
+  - Replace the `user_id` variable in the url of the request.
   - Press the `Send`, Button

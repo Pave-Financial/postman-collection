@@ -8,23 +8,16 @@
 		{
 			"name": "Recurring Expenditures",
 			"request": {
-				"method": "POST",
+				"method": "GET",
 				"header": [],
-				"body": {
-					"mode": "raw",
-					"raw": "{\n    \"user_id\": {{user_id}}\n}",
-					"options": {
-						"raw": {
-							"language": "json"
-						}
-					}
-				},
 				"url": {
-					"raw": "{{baseUrl}}/recurring_expenditures",
+					"raw": "{{baseUrl}}/users/{{user_id}}/recurring_expenditures",
 					"host": [
 						"{{baseUrl}}"
 					],
 					"path": [
+						"users",
+						"{{user_id}}",
 						"recurring_expenditures"
 					]
 				}
