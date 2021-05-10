@@ -37,6 +37,6 @@ Our collection of example Pave API requests is available under our Pave Financia
     
 7. Save the collection variables.
 
-8. Modify `{user_id}` in the request URL wherever required.
+8. Modify `{{user_id}}` in the request URL wherever required.
 
 9. Hit *Send* button!
