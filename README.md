@@ -10,7 +10,7 @@ code. This quick start guide will walk you through how to get up and running wit
 Pave API. Please refer to the [API documentation](https://developers.pave.dev) if
 you're looking for a more in depth guide of the API.
 
-![Pave Postman Public Workspace](./assets/pave_postman_public_workspace.gif)
+![Pave Postman Public Workspace](./images/pave_postman_public_workspace.gif)
 
 ## Collection
 
