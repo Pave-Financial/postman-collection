@@ -1,4 +1,4 @@
-# Pave Postman Public Workspace
+# Pave Postman Public Workspace & Collection
 
 [![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/paveapi/workspace/pave-financial-public-workspace)
 
@@ -14,8 +14,8 @@ you're looking for a more in depth guide of the API.
 
 ## Collection
 
-Our collection of example Pave API requests is available:
-* [At this URL](https://www.postman.com/paveapi/workspace/pave-financial-public-workspace)
+Our collection of example Pave API requests is available under our Pave Financial Postman Public Workspace:
+* At this URL: [https://www.postman.com/paveapi/workspace/pave-financial-public-workspace](https://www.postman.com/paveapi/workspace/pave-financial-public-workspace)
 * Or by searching directly in Postman for "Pave Financial Public Workspace"
 
 
@@ -26,17 +26,17 @@ Our collection of example Pave API requests is available:
 2. Download and install [Postman](https://www.postman.com/downloads/).
 
 3. Follow the [*Pave Financial Public Workspace* link]((https://www.postman.com/paveapi/workspace/pave-financial-public-workspace))
-   , or search for it directly in Postman
+   , or search for it directly in Postman.
 
-4. Right-click on the *Pave Cashflow API* collection, and select *Create a fork*
+4. Right-click on the *Pave Cashflow API* collection, and select *Create a fork*.
 
-5. Add the fork to your own workspace
+5. Add the fork to your own workspace.
 
 6. Configure the `PAVE_API_KEY` variable defined at the collection level. Use the
-   `CURRENT VALUE` column to avoid maintain your API key secret
+   `CURRENT VALUE` column to keep your API key secret.
     
 7. Save the collection variables.
 
-8. Modify `{user_id}` in the request URL whenever required.
+8. Modify `{user_id}` in the request URL wherever required.
 
 9. Hit *Send* button!
