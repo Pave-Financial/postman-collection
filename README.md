@@ -1,6 +1,6 @@
 # Pave Postman Public Workspace & Collection
 
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://www.postman.com/paveapi/workspace/pave-financial-public-workspace)
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://postman.pave.dev)
 
 
 If you're looking for a quick and easy way to get started with the Pave API with no
@@ -15,7 +15,7 @@ you're looking for a more in depth guide of the API.
 ## Collection
 
 Our collection of example Pave API requests is available under our Pave Financial Postman Public Workspace:
-* At this URL: [https://www.postman.com/paveapi/workspace/pave-financial-public-workspace](https://www.postman.com/paveapi/workspace/pave-financial-public-workspace)
+* At this URL: https://postman.pave.dev
 * Or by searching directly in Postman for "Pave Financial Public Workspace"
 
 
@@ -25,7 +25,7 @@ Our collection of example Pave API requests is available under our Pave Financia
 
 2. Download and install [Postman](https://www.postman.com/downloads/).
 
-3. Follow the [*Pave Financial Public Workspace* link]((https://www.postman.com/paveapi/workspace/pave-financial-public-workspace))
+3. Follow the [*Pave Financial Public Workspace* link](https://postman.pave.dev)
    , or search for it directly in Postman.
 
 4. Right-click on the *Pave Cashflow API* collection, and select *Create a fork*.
