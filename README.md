@@ -1,34 +1,42 @@
-# Pave Postman Collection
+# Pave Postman Public Workspace & Collection
 
-If you're looking for a quick and easy way to get started with the Pave API with no additional code, then you're in the right place. [Postman](https://www.postman.com/) is a great tool to create, share and test API functionality without having to write any code. This quick start guide will walk you through how to get up and running with the Pave API. Please refer to the [API documentation](https://pavedev.redoc.ly/) if you're looking for a more in depth guide of the API. 
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://postman.pave.dev)
+
+
+If you're looking for a quick and easy way to get started with the Pave API with no
+additional code, then you're in the right place. [Postman](https://www.postman.com/) is
+a great tool to create, share and test API functionality without having to write any
+code. This quick start guide will walk you through how to get up and running with the
+Pave API. Please refer to the [API documentation](https://developers.pave.dev) if
+you're looking for a more in depth guide of the API.
+
+![Pave Postman Public Workspace](./images/pave_postman_public_workspace.gif)
+
+## Collection
+
+Our collection of example Pave API requests is available under our Pave Financial Postman Public Workspace:
+* At this URL: https://postman.pave.dev
+* Or by searching directly in Postman for "Pave Financial Public Workspace"
+
 
 ## Getting Started
+
 1. Get your API Keys from Pave.
+
 2. Download and install [Postman](https://www.postman.com/downloads/).
-3. Visit the [github repository](https://github.com/Pave-Financial/postman-collection) to access the postman collection.
-4. Download repository: `Code > Download ZIP`. Once the repo has been downloaded, you need to unzip it.
-5. Import the Postman Collection by clicking `File > Import`.
-6. Select the `File` tab.
-7. Drag and drop the `Pave_API.postman_collection.json` file into the postman window.
-4. Configure the environment variables.
 
-## Configuring the environment variables
+3. Follow the [*Pave Financial Public Workspace* link](https://postman.pave.dev)
+   , or search for it directly in Postman.
 
-In order to make it easy for you to use the collection, we provide [Postman variables](https://learning.postman.com/docs/sending-requests/managing-environments/).
+4. Right-click on the *Pave Cashflow API* collection, and select *Create a fork*.
 
-![postman_auth](./assets/postman-auth.png)
+5. Add the fork to your own workspace.
 
-1. Select the Collection name in the left hand menu.
-2. Select the Variables tab.
+6. Configure the `PAVE_API_KEY` variable defined at the collection level. Use the
+   `CURRENT VALUE` column to keep your API key secret.
+    
+7. Save the collection variables.
 
-    ![variables](./assets/variables.png)
-3. Replace the value of the `pave-api-key` under the `CURRENT_VALUE` header with your actual API key.
-4. Save
+8. Modify `{{user_id}}` in the request URL wherever required.
 
-## Available endpoints
-
-The following requests are available as pre-filled requests that will allow you to test the Pave API.
-
-- Recurring Expenditures
-  - Replace the `user_id` variable in the url of the request.
-  - Press the `Send`, Button
+9. Hit *Send* button!
